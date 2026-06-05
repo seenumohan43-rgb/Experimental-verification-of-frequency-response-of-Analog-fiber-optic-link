@@ -56,7 +56,7 @@ Fiber optic links can transmit both digital and analog signals. A fiber optic li
 9. Plot detected signal vs. frequency to determine **3 dB bandwidth**.  
 10. Switch SW9 → TX2, JP7 → +12V.  
 11. Replace fiber connection to SFH450V (950nm LED).  
-12. Observe detected signal at **ANALOG OUT** on oscilloscope.  
+12. Observe detected signal at **ANALOG OUT** on oscilloscope.    
 
 ---
 
